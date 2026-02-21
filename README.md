@@ -21,7 +21,7 @@
 
 ## GitHub Stats
 
-https://github-readme-stats.vercel.app/api?username=Meera-Shersheer&theme=neon&hide_border=false&include_all_commits=true&count_private=true
+https://github-readme-stats-sigma-five.vercel.app/api?username=Meera-Shersheer&theme=neon&hide_border=false&include_all_commits=true&count_private=true
 
 ## Featured Project
 
