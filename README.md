@@ -21,7 +21,11 @@
 
 ## GitHub Stats
 
-https://github-readme-stats-sigma-five.vercel.app/api?username=Meera-Shersheer&theme=neon&hide_border=false&include_all_commits=true&count_private=true
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Meera-Shersheer&theme=neon&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Meera-Shersheer&theme=neon&hide_border=false" /><br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Meera-Shersheer&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
 
 ## Featured Project
 
