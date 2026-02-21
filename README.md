@@ -4,28 +4,30 @@
 
 - 🎓 &nbsp; I am a Mechatronics Engineering student at the University of Jordan.
 - 🏫 &nbsp;42 Amman Cadet and a software engineer in the making.
-- ⚙️ &nbsp; Interested in integrating mechanical design, electronics, and software.
--  🔭 &nbsp; Currently diving into the fields of Robotics, Control Systems, System Design and Software.
+- ⚙️ &nbsp;Interested in integrating mechanical design, electronics, and software.
+-  🔭 &nbsp;Currently diving into the fields of Robotics, Control Systems, System Design and Software.
 - Reach me at: 
 	- 📬 &nbsp;[meera04qasemshersheer@gmail.com](mailto:meera04qasemshersheer@gmail.com)
 	- 💼 &nbsp;[Linkedin](https://www.linkedin.com/in/meera-shersheer)
 
 
 ## Skills & Tools
-
-<p align="center">
+<div align="center">
+<p>
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,matlab,arduino,linux,git,github,qt" />
 </p>
-
-
+</div>
 
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Meera-Shersheer&theme=neon&hide_border=false&include_all_commits=true&count_private=true" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Meera-Shersheer&theme=neon&hide_border=false" /><br/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Meera-Shersheer&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meera-Shersheer&theme=radical&hide_border=false" /><br/>
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Meera-Shersheer&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
+
+
 
 ## Featured Project
 
