@@ -12,22 +12,22 @@
 
 
 ## Skills & Tools
-<div align="center">
-<p>
+
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,c,java,matlab,arduino,linux,git,github,qt" />
 </p>
-</div>
+
 
 
 ## GitHub Stats
 
-<div align="center">
+<p align="center">
 
 ![](https://github-readme-stats.vercel.app/api?username=Meera-Shersheer&theme=neon&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Meera-Shersheer&theme=neon&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Meera-Shersheer&theme=neon&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div>
+</p>
 
 
 
