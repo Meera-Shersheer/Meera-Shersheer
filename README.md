@@ -22,10 +22,9 @@
 ## GitHub Stats
 
 <p>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Meera-Shersheer&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=24292f&icon_color=24292f&text_color=57606a" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meera-Shersheer&layout=compact&theme=default&hide_border=true&title_color=24292f&text_color=57606a" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=meera-shersheer&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meera-shersheer&layout=compact&hide_border=true" />
 </p>
-
 ---
 
 ## Featured Project
