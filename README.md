@@ -24,7 +24,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Meera-Shersheer&theme=radical&hide_border=false" /><br/>
   <br/>
   <br/>
-  [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
 </p>
 
 
